@@ -87,6 +87,6 @@ These features are currently in development and are not available in the MVP:
 ## 📬 Contact
 
 For feature requests, partnerships, or support:
-📧 [info@yourcompany.co.ke](mailto:eugene.project.dev@gmail.com)
+📧 [eugene.project.dev@gmail.com](mailto:eugene.project.dev@gmail.com)
 📍 Nairobi, Kenya
 
