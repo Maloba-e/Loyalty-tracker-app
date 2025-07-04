@@ -1,12 +1,8 @@
- **Loyalty Tracker for Barbers & Salons**
- 
 # Loyalty Tracker for Barbers & Salons ✂️💈
 
 A lightweight, mobile-first loyalty system that helps barbershops and salons **track repeat visits**, **reward loyal clients**, and **increase customer retention** using **phone numbers** or **QR codes**.
 ---
-
 ## 🚀 Features
-
 - 📱 **Customer Check-In** via phone number or QR scan
 - 📊 **Visit Tracking** with timestamped logs
 - 🎁 **Loyalty Rewards** triggered after custom visit thresholds
@@ -15,9 +11,7 @@ A lightweight, mobile-first loyalty system that helps barbershops and salons **t
 - 📈 **Owner Dashboard** with check-in stats and redemption data
 
 ---
-
 ## 🧪 MVP Stack
-
 - **Frontend**: React / Vue (PWA-ready)
 - **Backend**: Node.js / Laravel / Firebase
 - **Database**: Firebase / PostgreSQL
@@ -25,15 +19,12 @@ A lightweight, mobile-first loyalty system that helps barbershops and salons **t
 - **QR Code Generation**: QR.js or similar
 
 ---
-
 ## 💰 Monetization
-
 - KES 200/month per shop  
 - Branded QR Codes (optional upsell)  
 - SMS Marketing (usage-based upsell)
 
 ---
-
 ## 📦 Getting Started
 
 ### Prerequisites
@@ -99,9 +90,3 @@ For feature requests, partnerships, or support:
 📧 [info@yourcompany.co.ke](mailto:info@yourcompany.co.ke)
 📍 Nairobi, Kenya
 
-```
-
----
-
-Would you like this as a downloadable `README.md` file or want it pushed to GitHub directly?
-```
