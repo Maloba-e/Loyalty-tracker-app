@@ -12,11 +12,11 @@ A lightweight, mobile-first loyalty system that helps barbershops and salons **t
 
 ---
 ## 🧪 MVP Stack
-- **Frontend**: React / Vue (PWA-ready)
-- **Backend**: Node.js / Laravel / Firebase
-- **Database**: Firebase / PostgreSQL
+- **Frontend**: React
+- **Backend**: Node.js
+- **Database**: Firebase
 - **SMS API**: Africa’s Talking / Twilio
-- **QR Code Generation**: QR.js or similar
+- **QR Code Generation**: QR.js
 
 ---
 ## 💰 Monetization
